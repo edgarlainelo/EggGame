@@ -1,0 +1,35 @@
+{
+    "coins": "0",
+    "tillBreak": "1000000",
+    "clicks_count": 0,
+    "meteor_count": 0,
+    "hammer_count": 0,
+    "nuke_count": 0,
+    "count": 100,
+    "hammer": 1,
+    "meteor": 1,
+    "nuke": 1,
+    "egg_selected_dic": {
+        "norm_egg": true,
+        "ice_egg": false,
+        "lava_egg": false,
+        "slime_egg": false,
+        "metal_egg": false,
+        "gold_egg": false,
+        "air_egg": false,
+        "water_egg": false
+    },
+    "bought_eggs": {
+        "norm_egg": true,
+        "ice_egg": false,
+        "lava_egg": false,
+        "slime_egg": false,
+        "metal_egg": false,
+        "gold_egg": false,
+        "air_egg": false,
+        "water_egg": false
+    },
+    "new_ach": false,
+    "ach_list": [],
+    "restart_game": false
+}
